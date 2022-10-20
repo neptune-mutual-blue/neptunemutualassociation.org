@@ -10,8 +10,12 @@ const ContactPage = () => {
         </div>
         <div className="flex flex-col">
           <p className="mb-4 text-white">
-            <a href="mailto:info@.neptunemutualassociation.org">
-              info@.neptunemutualassociation.org
+            <a
+              target="_blank"
+              rel="noreferrer nofollow noopener"
+              href="https://docs.google.com/forms/d/e/1FAIpQLSf5dv2IIO966C1zvnOBI_1QqWCqrQwTTP-tg6Bz_AKlthNU4Q/viewform?usp=sf_link"
+            >
+              neptunemutualassociation@gmail.com
             </a>
           </p>
           <div className="max-w-[302px]">
