@@ -261,8 +261,7 @@ const PrivacyPage = () => {
         <p className="mt-4">
           Due to the further development of our website and offers or due to
           changed legal or regulatory requirements, it may be necessary to
-          change this privacy policy. The current privacy policy can be viewed
-          and printed on our website at any time using the link below.
+          change this privacy policy.
         </p>
         <h5 className="mt-8 text-xl font-bold">
           Neptune Mutual Association Contact Details
@@ -271,8 +270,8 @@ const PrivacyPage = () => {
           We are pleased to help all concerned in connection with the handling
           of personal data and exercising their rights. For assistance please
           contact{" "}
-          <Link href="mailto:info@neptunemutualassocation.org">
-            info@neptunemutualassocation.org
+          <Link href="mailto:neptunemutualassociation@gmail.com">
+          neptunemutualassociation@gmail.com
           </Link>{" "}
           We are committed to dealing with all questions promptly.
         </p>
